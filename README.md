@@ -1,1 +1,1 @@
-Hi all, this is my personal page!
+My personal page!
