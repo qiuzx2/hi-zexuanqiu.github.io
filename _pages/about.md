@@ -24,7 +24,7 @@ My general research interest is probabilistic machine learning and its applicati
 
 - Efficient Document Retrieval by End-to-End Refining and Quantizing BERT Embedding with Contrastive Product Quantization <br><b>Zexuan Qiu</b>, [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en), [Jianxing Yu](https://scholar.google.com/citations?user=0SIMxCgAAAAJ&hl=zh-CN) and [Shijing Si](https://scholar.google.com/citations?user=7OnnQlAAAAAJ&hl=zh-CN&oi=ao). EMNLP 2022, Oral. [[PDF]](https://arxiv.org/abs/2210.17170) [[CODE]](https://github.com/zexuanqiu/MICPQ)
 
-- Unsupervised Hashing with Contrastive Information Bottleneck <br>**Zexuan Qiu**, [Zijing Ou](https://j-zin.github.io), [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en) and [Chanyou Chen](https://cse.buffalo.edu/~changyou/). IJCAI 2021. [[PDF]](https://arxiv.org/abs/2105.06138) [[CODE]](https://github.com/zexuanqiu/CIBHash)
+- Unsupervised Hashing with Contrastive Information Bottleneck <br>**Zexuan Qiu**, [Qinliang Su](https://scholar.google.com/citations?user=cuIweygAAAAJ&hl=en), [Zijing Ou](https://j-zin.github.io) and [Chanyou Chen](https://cse.buffalo.edu/~changyou/). IJCAI 2021. [[PDF]](https://arxiv.org/abs/2105.06138) [[CODE]](https://github.com/zexuanqiu/CIBHash)
 
 
 
