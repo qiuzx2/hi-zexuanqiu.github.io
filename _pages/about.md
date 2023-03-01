@@ -16,8 +16,9 @@ I am a first-year Ph.D. student  at Department of Computer Science and Engineeri
 
 ## Research Interest
 
-My general research interest is probabilistic machine learning and its application in Natural Language Processing. Currently, I am specifically interested in: (i) (Binary/ Product) Quantization for efficient retrieval; (ii) Quantization of Pre-trained Language Models.
-
+My research interests are machine learning/deep learning and their broad applications in natural language processing \& information retrieval. My past main research topics include:
+- Product quantization for efficient dense (documents/passages) retrieval.
+- Learning to hash for efficient image retrieval.
 
 
 ## Publications
