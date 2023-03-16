@@ -16,7 +16,7 @@ I am a first-year Ph.D. student  at Department of Computer Science and Engineeri
 
 ## Research Interest
 
-My research interests are machine learning/deep learning and their broad applications in natural language processing \& information retrieval. My past main research topics include: (i) Product quantization for efficient dense (documents/passages) retrieval; (ii) Learning to hash for efficient image retrieval.
+My research interests are machine learning/deep learning and their broad applications in natural language processing and information retrieval. My past main research topics include: (i) Product quantization for efficient dense (documents/passages) retrieval; (ii) Learning to hash for efficient image retrieval.
 
 
 ## Publications
