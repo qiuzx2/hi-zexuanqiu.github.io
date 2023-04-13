@@ -22,7 +22,7 @@ My research interests are machine learning/deep learning and their broad applica
 ## Publications
 
 - Learning Semantic-Rich Relation-Selective Entity Representation for Knowledge Graph Completion <br>
-Zenan Xu\*, <b>Zexuan Qiu</b>\*, Qinliang Su. DASFAA 2023. (Equal Contribution) 
+Zenan Xu\*, <b>Zexuan Qiu</b>\*, Qinliang Su. DASFAA 2023, Oral. (Equal Contribution) 
 
 - Efficient Document Retrieval by End-to-End Refining and Quantizing BERT Embedding with Contrastive Product Quantization <br><b>Zexuan Qiu</b>, Qinliang Su, Jianxing Yu, Shijing Si. EMNLP 2022, Oral. [[PDF]](https://arxiv.org/abs/2210.17170) [[CODE]](https://github.com/zexuanqiu/MICPQ)
 
